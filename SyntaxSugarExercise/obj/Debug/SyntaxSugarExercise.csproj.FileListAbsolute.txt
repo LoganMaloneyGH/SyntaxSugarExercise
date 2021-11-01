@@ -1,0 +1,7 @@
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.exe.config
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.exe
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\SyntaxSugarExercise.pdb
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.exe
+C:\Users\shake\source\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\SyntaxSugarExercise.pdb
